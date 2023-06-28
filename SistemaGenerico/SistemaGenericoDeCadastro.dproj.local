@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2023/03/07 12:22:50.000.315,=C:\Users\Cedup\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/03/13 08:36:35.000.600,=C:\Users\Cedup\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/06/13 09:34:49.000.518,=C:\Users\Cedup\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/06/13 09:51:17.000.747,=C:\Users\Cedup\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/06/13 11:57:48.000.489,=C:\Users\Cedup\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/06/13 12:06:06.000.600,C:\3-52 2023\joao luis\SistemaGenerico\Fontes\U_login.dfm=C:\Users\Cedup\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>2023/06/13 12:06:06.000.600,C:\3-52 2023\joao luis\SistemaGenerico\Fontes\U_login.pas=C:\Users\Cedup\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>2023/06/13 12:06:36.000.970,C:\3-52 2023\joao luis\SistemaGenerico\Fontes\U_Splash.dfm=C:\Users\Cedup\Documents\Embarcadero\Studio\Projects\Unit3.dfm</Transaction>
+    <Transaction>2023/06/13 12:06:36.000.970,C:\3-52 2023\joao luis\SistemaGenerico\Fontes\U_Splash.pas=C:\Users\Cedup\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>2023/06/13 12:07:13.000.808,C:\3-52 2023\joao luis\SistemaGenerico\SistemaGenericoDeCadastro.dproj=C:\Users\Cedup\Documents\Embarcadero\Studio\Projects\Project4.dproj</Transaction>
+    <Transaction>2023/06/14 23:32:39.000.988,=C:\Users\Tiago\Downloads\SistemaGenerico\SistemaGenerico\Unit1.pas</Transaction>
+    <Transaction>2023/06/14 23:32:47.000.005,C:\Users\Tiago\Downloads\SistemaGenerico\SistemaGenerico\Funcoes.pas=C:\Users\Tiago\Downloads\SistemaGenerico\SistemaGenerico\Unit1.pas</Transaction>
+    <Transaction>2023/06/15 19:38:56.000.839,=C:\Users\Usuario\Desktop\SistemaGenerico\SistemaGenerico\Unit1.pas</Transaction>
+    <Transaction>2023/06/15 19:39:37.000.532,C:\Users\Usuario\Desktop\SistemaGenerico\SistemaGenerico\Unit1.pas=C:\Users\Usuario\Desktop\SistemaGenerico\SistemaGenerico\Fontes\U_Menu.pas</Transaction>
+    <Transaction>2023/06/15 19:39:37.000.532,C:\Users\Usuario\Desktop\SistemaGenerico\SistemaGenerico\Unit1.dfm=C:\Users\Usuario\Desktop\SistemaGenerico\SistemaGenerico\Fontes\U_Menu.dfm</Transaction>
+    <Transaction>2023/06/17 23:33:57.000.015,=C:\Users\Tiago\Desktop\SistemaGenerico\SistemaGenerico\SistemaGenerico\Unit1.pas</Transaction>
+    <Transaction>2023/06/18 00:11:34.000.605,=C:\SistemaGenerico\Unit1.pas</Transaction>
+    <Transaction>2023/06/18 00:12:00.000.800,C:\SistemaGenerico\U_DM.pas=C:\SistemaGenerico\Unit1.pas</Transaction>
+    <Transaction>2023/06/18 00:12:00.000.800,C:\SistemaGenerico\U_DM.dfm=C:\SistemaGenerico\Unit1.dfm</Transaction>
+    <Transaction>2023/06/18 00:12:31.000.595,C:\SistemaGenerico\fontes\U_DM.dfm=C:\SistemaGenerico\U_DM.dfm</Transaction>
+    <Transaction>2023/06/18 00:12:31.000.595,C:\SistemaGenerico\fontes\U_DM.pas=C:\SistemaGenerico\U_DM.pas</Transaction>
+  </Transactions>
+</BorlandProject>
