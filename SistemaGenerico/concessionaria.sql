@@ -37,16 +37,6 @@ CREATE TABLE `clientes` (
   `datanasc_cliente` date DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
---
--- Extraindo dados da tabela `clientes`
---
-
-INSERT INTO `clientes` (`id_cliente`, `nome_cliente`, `cpf_cliente`, `telefone_cliente`, `endereco_cliente`, `email_cliente`, `datanasc_cliente`) VALUES
-(2, 'vander', '666.666.666-66', '(69)69696-9696', 'asdsfdfdf', 'cvbnm@gmail', '1111-11-11'),
-(3, 'tisgu', '888.888.888-88', '(55)55555-5555', 'fdsfsdfs', 'sdasdasd@gdfgd', '1111-11-11'),
-(11, 'Tiago Ramos Aguiar', '123.090.859-52', '(48)99696-7134', 'Rua Luiz Nazari, 80', 'tiagoramosaguiar@outlook.com', '2006-02-09'),
-(12, 'João Luis Ricken', '111.204.749-22', '(43)44323-4676', 'caravaggio', 'joao@gmail.com', '2005-09-22');
-
 -- --------------------------------------------------------
 
 --
@@ -68,8 +58,7 @@ CREATE TABLE `funcionarios` (
 --
 
 INSERT INTO `funcionarios` (`id_funcionario`, `nome_funcionario`, `cpf_funcionario`, `cargo_funcionario`, `telefone_funcionario`, `salario_funcionario`, `senha_funcionario`) VALUES
-(1, 'jao', '111.111.111-11', 'asd', '(11)11111-1111', 6900.00, '69'),
-(2, 'Lucas Castellan', '777.777.777-77', 'Gerente', '(48) 99135-1926', 3621.00, '123');
+(1, 'Lucas Castellan', '111.111.111-11', 'Gerente', '(48) 99999-9999', 3621.00, '12345');
 
 -- --------------------------------------------------------
 
@@ -87,16 +76,6 @@ CREATE TABLE `veiculos` (
   `ano_veiculo` varchar(4) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
 
---
--- Extraindo dados da tabela `veiculos`
---
-
-INSERT INTO `veiculos` (`id_veiculo`, `marca_veiculo`, `modelo_veiculo`, `cor_veiculo`, `preco_veiculo`, `disponivel_veiculo`, `ano_veiculo`) VALUES
-(2, 'fiat', 'uno', 'branco', 150000.00, 1, '2077'),
-(4, 'toyota', 'supra', 'vermelho', 100000.00, 0, '1969'),
-(7, 'Nissan', 'GTR R34', 'Preto', 1000000.00, 0, '2018'),
-(8, 'Lamborghini', 'Huracan', 'Amarela', 150000.00, 0, '2025');
-
 -- --------------------------------------------------------
 
 --
@@ -111,16 +90,6 @@ CREATE TABLE `vendas` (
   `data_venda` date DEFAULT NULL,
   `valor_venda` double(10,2) DEFAULT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4;
-
---
--- Extraindo dados da tabela `vendas`
---
-
-INSERT INTO `vendas` (`id_vendas`, `cod_veiculo`, `cod_cliente`, `cod_funcionario`, `data_venda`, `valor_venda`) VALUES
-(2, 2, 2, 1, '2023-06-26', 150000.00),
-(6, 4, 3, 1, '2023-06-27', 100000.00),
-(7, 7, 11, 2, '2023-06-27', 1000000.00),
-(8, 8, 11, 2, '2023-06-27', 150000.00);
 
 --
 -- Acionadores `vendas`
