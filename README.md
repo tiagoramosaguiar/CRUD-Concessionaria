@@ -1,1 +1,1 @@
-Feito em dupla com [João Luis Ricken](https://github.com/JoaoLuisRicken)
+Desenvolvido em dupla com [João Luis Ricken](https://github.com/JoaoLuisRicken)
